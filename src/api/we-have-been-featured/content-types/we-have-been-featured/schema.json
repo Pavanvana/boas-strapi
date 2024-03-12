@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "we_have_been_featureds",
+  "info": {
+    "singularName": "we-have-been-featured",
+    "pluralName": "we-have-been-featureds",
+    "displayName": "we-have-been-featured"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "logoURL": {
+      "type": "text"
+    }
+  }
+}

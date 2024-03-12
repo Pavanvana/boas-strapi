@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "shop_the_washes",
+  "info": {
+    "singularName": "shop-the-wash",
+    "pluralName": "shop-the-washes",
+    "displayName": "shop-the-wash",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "color": {
+      "type": "string"
+    },
+    "imgURL": {
+      "type": "text"
+    },
+    "pageURL": {
+      "type": "string"
+    }
+  }
+}

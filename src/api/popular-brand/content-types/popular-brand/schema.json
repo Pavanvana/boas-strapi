@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "popular_brands",
+  "info": {
+    "singularName": "popular-brand",
+    "pluralName": "popular-brands",
+    "displayName": "Popular-Brand",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Brand": {
+      "type": "string"
+    },
+    "imgURL": {
+      "type": "text"
+    },
+    "logoURL": {
+      "type": "text"
+    }
+  }
+}
